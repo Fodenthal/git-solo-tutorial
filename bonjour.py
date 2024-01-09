@@ -1,5 +1,5 @@
-{print("Bonjour!")
- print("Bonjour le monde!")
- print("Bonjour l'univers!")
- print("Bonjour l'multivers!")
- }
+print("Bonjour!")
+print("Bonjour le monde!")
+print("Bonjour l'univers!")
+print("Bonjour l'multivers!")
+ 
